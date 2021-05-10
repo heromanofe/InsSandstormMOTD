@@ -1,6 +1,8 @@
 # InsSandstormMOTD
 full project of a MOTD mod.
 ----------------------------------------
+UPDATE, INSTEAD OF USING MOTD_REEWORKED AS MY LAST PROJECT FOLDER, I DECIDED TO PORT EVERYTHING INTO A NEW PLUGIN/MOD FOLDER. IT IS CALLED MOTD_REEBORN . THIS ONE WILL HAVE ALL THE LATEST CHANGES AND FIXES. ALSO IT HAS 0 JUNK, SO ALL FILES THERE (MAYBE EXCEPT WEB IMAGE) ARE IMPORTANT!
+----------------------------------------
 THIS IS UNREAL ENGINE 4 PLUGIN. TO MAKE IT WORK DOWNLOAD |MOTD_REEWORKED| MAKE SURE SANDSTORM EDITOR IS OFF AND DROP |MOTD_REEWORKED| INTO THE ||SandstormEditor\Insurgency\Plugins|| FOLDER! 
 ----------------------------------------
 Files with "_T"_ after were for test version of MOTD and have some new features and debug options, one of testing features that never made it in is translation.
